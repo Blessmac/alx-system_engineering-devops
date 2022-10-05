@@ -1,1 +1,1 @@
-This is the beginning
+Task 0. Where am I?
